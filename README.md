@@ -11,6 +11,8 @@ I'm a business analytics student at the University of Iowa🎓. I'm passionate a
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 <br>
 ![](https://img.shields.io/badge/Code-OracleSQL-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)
+<br>
+![](https://img.shields.io/badge/Platform-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=2bbc8a)
 
 <br>
 
