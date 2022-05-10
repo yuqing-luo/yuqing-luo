@@ -1,6 +1,6 @@
 # Hi, I'm Yuqing Luo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a business analytics student at the University of Iowa🎓. I'm passionate about coding and data analytics. Things I've been excited about lately are data visualization and digital product development👀.
+I'm a business analytics student at the University of Iowa🎓. I'm passionate about coding and data analytics. Things I've been excited about lately are data visualization and digital product development.
 
 <br>
 
